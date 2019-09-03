@@ -1,0 +1,8 @@
+package com.springcourse.model;
+
+public class Customer {
+	
+	private String firstName;
+	private String LastName;
+
+}

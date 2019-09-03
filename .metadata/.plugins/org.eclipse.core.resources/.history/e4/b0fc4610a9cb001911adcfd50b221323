@@ -1,0 +1,20 @@
+package com.springcourse.repositary;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import com.springcourse.model.Customer;
+
+public class customerRepositaryImp {
+	
+	public List<Customer> findAll()
+	{
+		List<Customer> ls=new ArrayList();
+		Customer c=new Customer();
+		
+		
+		return ls;
+		
+	}
+
+}

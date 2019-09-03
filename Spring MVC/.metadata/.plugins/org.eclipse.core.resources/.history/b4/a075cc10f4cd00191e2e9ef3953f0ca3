@@ -1,0 +1,25 @@
+package com.spring.view;
+
+import java.lang.annotation.Documented;
+import java.lang.annotation.ElementType;
+import java.lang.annotation.Retention;
+import java.lang.annotation.Target;
+
+import javax.validation.Constraint;
+
+import com.sun.tools.javac.code.Attribute.RetentionPolicy;
+
+@Documented
+@Constraint(validatedBy=PhoneConstraintValidator.class)
+@Target({ElementType.METHOD,ElementType.FIELD})
+@Retention(RetentionPolicy.RUNTIME)
+
+public @interface Phone {
+	
+	String message() default "{Phone}";
+	
+	Class<?> groups() default {};
+	
+	Class<? extends payload>[] payload() default{};
+
+}

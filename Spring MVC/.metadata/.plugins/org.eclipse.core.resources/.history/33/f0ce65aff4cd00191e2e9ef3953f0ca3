@@ -1,0 +1,14 @@
+package com.spring.view;
+
+import javax.validation.ConstraintValidator;
+
+
+public class PhoneConstraintValidator implements ConstraintValidator<Phone, String> {
+
+	
+	@Override
+	public void initialize(Phone phone)
+	{
+		
+	}
+}

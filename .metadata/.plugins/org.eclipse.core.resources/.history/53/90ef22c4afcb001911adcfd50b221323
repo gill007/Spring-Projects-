@@ -1,0 +1,22 @@
+package com.springcourse.Service;
+
+import java.util.List;
+
+import com.springcourse.model.Customer;
+import com.springcourse.repositary.CustomerRepositary;
+
+
+public class CustomerServiceImp implements CustomerService {
+	
+	private CustomerRepositary customerRepositary; 
+	
+	public List<Customer> findAll()
+	{
+		return customerRepositary.findAll();
+	}
+
+	public void setCustomerService(CustomerRepositary cr) {
+		this.customerRepositary = customerRepositary;
+	}
+
+}

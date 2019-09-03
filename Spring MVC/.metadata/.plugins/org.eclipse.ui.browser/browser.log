@@ -1,0 +1,47 @@
+
+Aug 31, 2019 23:25:55.07 NEW SESSION
+Aug 31, 2019 23:25:55.07 [9080:27564:0831/232554.886:ERROR:browser_process_sub_thread.cc(203)] Waited 179 ms for network service
+Sep 01, 2019 24:46:16.98 [7172:24524:0901/004616.979:ERROR:browser_process_sub_thread.cc(203)] Waited 196 ms for network service
+Sep 01, 2019 02:32:37.65 [33284:32160:0901/023237.653:ERROR:browser_process_sub_thread.cc(203)] Waited 55 ms for network service
+Sep 01, 2019 02:40:38.13 [1380:30444:0901/024038.139:ERROR:browser_process_sub_thread.cc(203)] Waited 174 ms for network service
+Sep 01, 2019 13:15:49.40 [30392:32732:0901/131549.408:ERROR:browser_process_sub_thread.cc(203)] Waited 292 ms for network service
+Sep 01, 2019 14:48:10.77 [36236:25872:0901/144810.778:ERROR:browser_process_sub_thread.cc(203)] Waited 232 ms for network service
+Sep 01, 2019 14:50:04.51 [35952:32660:0901/145004.515:ERROR:browser_process_sub_thread.cc(203)] Waited 329 ms for network service
+Sep 01, 2019 14:50:23.35 [35912:25312:0901/145023.350:ERROR:browser_process_sub_thread.cc(203)] Waited 243 ms for network service
+Sep 01, 2019 14:50:55.43 [34356:10488:0901/145055.435:ERROR:browser_process_sub_thread.cc(203)] Waited 243 ms for network service
+Sep 01, 2019 14:59:24.63 [1308:32552:0901/145924.635:ERROR:browser_process_sub_thread.cc(203)] Waited 193 ms for network service
+Sep 01, 2019 16:04:17.87 [36416:24264:0901/160417.870:ERROR:browser_process_sub_thread.cc(203)] Waited 156 ms for network service
+Sep 01, 2019 16:20:24.61 [28664:29596:0901/162024.612:ERROR:browser_process_sub_thread.cc(203)] Waited 132 ms for network service
+Sep 01, 2019 16:21:03.62 [4092:33164:0901/162103.626:ERROR:browser_process_sub_thread.cc(203)] Waited 339 ms for network service
+Sep 01, 2019 18:08:10.42 [36372:31248:0901/180810.421:ERROR:browser_process_sub_thread.cc(203)] Waited 175 ms for network service
+Sep 01, 2019 18:17:57.71 [35152:34316:0901/181757.715:ERROR:browser_process_sub_thread.cc(203)] Waited 84 ms for network service
+Sep 01, 2019 18:21:59.94 [25072:35440:0901/182159.947:ERROR:browser_process_sub_thread.cc(203)] Waited 321 ms for network service
+Sep 01, 2019 18:23:35.30 [36232:36496:0901/182335.301:ERROR:browser_process_sub_thread.cc(203)] Waited 286 ms for network service
+Sep 01, 2019 18:29:10.59 [23056:33776:0901/182910.596:ERROR:browser_process_sub_thread.cc(203)] Waited 200 ms for network service
+Sep 01, 2019 18:30:15.63 [30248:21328:0901/183015.632:ERROR:browser_process_sub_thread.cc(203)] Waited 291 ms for network service
+Sep 01, 2019 18:39:27.79 [9132:28720:0901/183927.790:ERROR:browser_process_sub_thread.cc(203)] Waited 301 ms for network service
+Sep 01, 2019 18:40:21.89 [32932:35492:0901/184021.891:ERROR:browser_process_sub_thread.cc(203)] Waited 267 ms for network service
+Sep 01, 2019 19:38:19.20 [35464:33248:0901/193819.208:ERROR:browser_process_sub_thread.cc(203)] Waited 216 ms for network service
+Sep 01, 2019 20:00:36.73 [38688:28124:0901/200036.736:ERROR:browser_process_sub_thread.cc(203)] Waited 292 ms for network service
+Sep 01, 2019 20:01:01.71 [38844:34048:0901/200101.713:ERROR:browser_process_sub_thread.cc(203)] Waited 210 ms for network service
+
+Sep 01, 2019 22:12:58.84 NEW SESSION
+Sep 01, 2019 22:12:58.84 [7676:9224:0901/221258.846:ERROR:browser_process_sub_thread.cc(203)] Waited 303 ms for network service
+Sep 02, 2019 14:35:13.37 [11196:3220:0902/143513.379:ERROR:browser_process_sub_thread.cc(203)] Waited 79 ms for network service
+Sep 02, 2019 15:30:02.94 [15012:13504:0902/153002.941:ERROR:browser_process_sub_thread.cc(203)] Waited 27 ms for network service
+Sep 02, 2019 15:55:34.50 [14584:12300:0902/155534.506:ERROR:browser_process_sub_thread.cc(203)] Waited 93 ms for network service
+Sep 02, 2019 16:17:06.92 [13692:5804:0902/161706.926:ERROR:browser_process_sub_thread.cc(203)] Waited 145 ms for network service
+Sep 02, 2019 17:22:01.70 [10312:13116:0902/172201.706:ERROR:browser_process_sub_thread.cc(203)] Waited 39 ms for network service
+Sep 02, 2019 17:44:01.03 [15704:3868:0902/174401.032:ERROR:browser_process_sub_thread.cc(203)] Waited 269 ms for network service
+Sep 02, 2019 17:45:08.49 [16420:5988:0902/174508.497:ERROR:browser_process_sub_thread.cc(203)] Waited 268 ms for network service
+Sep 02, 2019 17:52:41.25 [16660:15560:0902/175241.258:ERROR:browser_process_sub_thread.cc(203)] Waited 254 ms for network service
+Sep 02, 2019 18:44:46.86 [17316:5676:0902/184446.860:ERROR:browser_process_sub_thread.cc(203)] Waited 156 ms for network service
+Sep 02, 2019 18:47:39.89 [17184:15176:0902/184739.898:ERROR:browser_process_sub_thread.cc(203)] Waited 111 ms for network service
+Sep 02, 2019 18:53:04.81 [15396:7020:0902/185304.812:ERROR:browser_process_sub_thread.cc(203)] Waited 199 ms for network service
+Sep 02, 2019 18:55:51.65 [16140:16752:0902/185551.653:ERROR:browser_process_sub_thread.cc(203)] Waited 290 ms for network service
+Sep 02, 2019 18:57:40.98 [12452:15832:0902/185740.985:ERROR:browser_process_sub_thread.cc(203)] Waited 294 ms for network service
+Sep 02, 2019 19:05:27.50 [16660:16040:0902/190527.508:ERROR:browser_process_sub_thread.cc(203)] Waited 40 ms for network service
+Sep 02, 2019 22:30:45.74 [10532:18300:0902/223045.741:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Sep 02, 2019 23:15:06.62 [10532:18300:0902/231506.621:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -7
+Sep 02, 2019 23:15:07.87 [10532:18888:0902/231506.623:ERROR:gcm_channel_status_request.cc(146)] GCM channel request failed.
+Sep 03, 2019 24:06:45.66 [10532:18300:0903/000645.662:ERROR:browser_process_sub_thread.cc(203)] Waited 29 ms for network service

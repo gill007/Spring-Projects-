@@ -1,0 +1,39 @@
+package com.springcourse.Service;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Scope;
+import org.springframework.stereotype.Service;
+
+import com.springcourse.model.Customer;
+import com.springcourse.repositary.CustomerRepositary;
+
+@Service("customerService")
+@Scope("singleton")
+public class CustomerServiceImp implements CustomerService {
+	
+
+	private CustomerRepositary customerRepositary; 
+	
+	public CustomerServiceImp() {
+		
+	}
+	
+	
+	public CustomerServiceImp(CustomerRepositary customerRepositary) {
+		System.out.println("Using Constructor injection");
+		this.customerRepositary = customerRepositary;
+	}
+
+	public List<Customer> findAll()
+	{
+		return customerRepositary.findAll();
+	}
+	@Autowired
+	public void setCustomerRepositary(CustomerRepositary customerRepositary) {
+		System.out.println("Using setter injection");
+		this.customerRepositary = customerRepositary;
+	}
+
+}

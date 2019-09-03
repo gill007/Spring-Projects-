@@ -1,0 +1,4 @@
+Size.attendee.name=	Name must be between {2} and {30} characters
+
+attendee.name=Enter Name
+attendee.email.address=Enter  Email Address

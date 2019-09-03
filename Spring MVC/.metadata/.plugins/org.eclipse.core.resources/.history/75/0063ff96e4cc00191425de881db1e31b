@@ -1,0 +1,22 @@
+package com.springmvc.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.springmvc.model.Goal;
+
+@Controller
+public class GoalController {
+	
+	@RequestMapping(value="/addGoal")
+	public String addGoal(Model model)
+	{
+		Goal goal=new Goal();
+		goal.setMinutes(10);
+		model.addAttribute("goal",goal);
+		
+		return "addGoal";
+	}
+
+}
