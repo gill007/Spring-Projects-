@@ -4,6 +4,7 @@ public class Customer {
 	
 	private String firstName;
 	private String LastName;
+	private String middleName;
 
 	public String getFirstName() {
 		return firstName;
